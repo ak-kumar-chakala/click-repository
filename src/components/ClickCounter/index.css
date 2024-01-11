@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.counter-container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  font-family: 'Roboto';
+}
+.para {
+  color: #2d3a35;
+}
+.span-element {
+  color: #c20a72;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
